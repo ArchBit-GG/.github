@@ -1,5 +1,6 @@
 ## Welcome to the Rice Field 👋
-## Lez goo Be a Pioneer 
+## Lez goo Be a Pioneer
+![Alt Text](https://tenor.com/view/joji-filthy-frank-welcome-to-the-rice-fields-rice-fields-gif-15724064)
 ![CodeWars](https://github.r2v.ch/codewars?user=RenardMacorol&stroke=%23BB432C)
 ![CodeWars](https://github.r2v.ch/codewars?user=DLAyatoCabanilla&stroke=%23BB432C)
 ![CodeWars](https://github.r2v.ch/codewars?user=nngel&stroke=%23BB432C)
